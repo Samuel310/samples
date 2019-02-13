@@ -1,0 +1,1 @@
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/19c3f609-0ef2-490c-8092-d720df6796bf/view?access_token=68b98958ceeda9fc86f8a76739b7a9f8da5c7b39b6c6cfd1f8ca75d3fd91e81b">LINK TO VIEW PROJECT</a>
